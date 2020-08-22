@@ -6,7 +6,7 @@ Work now: Machine Learning Intern at CEA Tech.
 
 📚 I am currently an Engineering student at **Ecole Centrale de Lyon** (Bac+5) in Computer Science, Data Science and Artificial Intelligence (double degree). I am working on applying Machine Learning methods and AI techniques in several disciplines (Optimization, Forecasting, Computer Vision, Data Analysis, Fluid Dynamics related optimization…)
 
-📩 If you'd like to ask any questions about my process, or would like to collaborate on a project, feel free to reach out via [Twitter](https://github.com/anasselhoud), or email anass.elhoud@gmail.com.
+📩  If you'd like to ask any questions about my process, or would like to collaborate on a project, feel free to reach out via [Twitter](https://twitter.com/AnassElHoud), or email anass.elhoud@gmail.com.
 
 
 <!--
