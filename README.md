@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-Work now: Machine Learning Intern at CEA Tech.
+Work now: Machine Learning Intern at CEA Tech & Content Creator at NeptuneAI
 
 💻 I am Computer Science Student: Specialized in AI & Data Science. I have a strong background in Machine Learning, Deep learning and Data Science globally.
 
