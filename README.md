@@ -8,7 +8,7 @@ Work now: Machine Learning Intern at CEA Tech.
 
 📩  If you'd like to ask any questions about my process, work, or would like to collaborate on a project, feel free to reach out via [Twitter](https://twitter.com/AnassElHoud), [LinkedIn](https://www.linkedin.com/in/anass-elhoud/), or email anass.elhoud@gmail.com.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasselhoud)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasselhoud&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
