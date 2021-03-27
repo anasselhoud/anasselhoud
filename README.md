@@ -1,10 +1,10 @@
 ### Welcome 👋
 
-Work now: Machine Learning Intern at CEA Tech.
+Work now: Artificial Intelligence Engineer at Faurecia.
 
-💻 I am Computer Science Student: Specialized in AI & Data Science. I have a strong background in Machine Learning, Deep learning and Data Science globally.
+💻 I am Computer Scientist: Specialized in AI & Data Science. I have a strong background in Machine Learning, Deep learning and Data Science globally.
 
-📚 I am currently an Engineering student at **Ecole Centrale de Lyon** (Bac+5) in Computer Science, Data Science and Artificial Intelligence (double degree-Ecole d'Arts et Métiers Morocco). I am working on applying Machine Learning methods and AI techniques in several disciplines (Analysis, Forecasting, NLP, Computer Vision...)
+📚 I am currently an Engineering student at **Ecole Centrale de Lyon** (Bac+5) in Computer Science, Data Science and Artificial Intelligence (double degree-Ecole d'Arts et Métiers Morocco). I am working on applying Machine Learning methods and AI techniques in several disciplines (Computer Vision, Analysis, Forecasting, NLP...)
 
 📩  If you'd like to ask any questions about my process, work, or would like to collaborate on a project, feel free to reach out via [Twitter](https://twitter.com/AnassElHoud), [LinkedIn](https://www.linkedin.com/in/anass-elhoud/), or email anass.elhoud@gmail.com.
 
