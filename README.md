@@ -2,7 +2,7 @@
 
 Work now: Artificial Intelligence Engineer at Faurecia.
 
-💻 I am Computer Scientist: Specialized in AI & Data Science. I have a strong background in Machine Learning, Deep learning and Data Science globally.
+💻 I am a Computer Scientist: Specialized in AI & Data Science. I have a strong background in Machine Learning, Deep learning and Data Science globally.
 
 📚 I am currently an Engineering student at **Ecole Centrale de Lyon** (Bac+5) in Computer Science, Data Science and Artificial Intelligence (double degree-Ecole d'Arts et Métiers Morocco). I am working on applying Machine Learning methods and AI techniques in several disciplines (Computer Vision, Analysis, Forecasting, NLP...)
 
