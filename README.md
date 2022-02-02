@@ -6,7 +6,7 @@ Work now: Artificial Intelligence Engineer.
 
 📚 I am currently an Engineering student at **Ecole Centrale de Lyon** (Bac+5) in Computer Science, Data Science and Artificial Intelligence (double degree-Ecole d'Arts et Métiers Morocco). I am working on applying Machine Learning methods and AI techniques in several disciplines (Computer Vision, Analysis, Forecasting, NLP...)
 
-📩  If you'd like to ask any questions about my process, work, or would like to collaborate on a project, feel free to reach out via [Twitter](https://twitter.com/AnassElHoud), [LinkedIn](https://www.linkedin.com/in/anass-elhoud/), or email anass.elhoud@gmail.com.
+📩  If you'd like to ask any questions about my process, work, or would like to collaborate on a project, feel free to reach out.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasselhoud&hide=issues&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
