@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-Work now: Artificial Intelligence Engineer at Faurecia.
+Work now: Artificial Intelligence Engineer.
 
 💻 I am a Computer Scientist: Specialized in AI & Data Science. I have a strong background in Machine Learning, Deep learning and Data Science globally.
 
