@@ -1,10 +1,8 @@
 ### Welcome 👋
 
-Work now: Artificial Intelligence Engineer.
+Work now: Artificial Intelligence Engineer & PhD Candidate.
 
-💻 I am a Computer Scientist: Specialized in AI & Data Science. I have a strong background in Machine Learning, Deep learning and Data Science globally.
-
-📚 I am currently an Engineering student at **Ecole Centrale de Lyon** (Bac+5) in Computer Science, Data Science and Artificial Intelligence (double degree-Ecole d'Arts et Métiers Morocco). I am working on applying Machine Learning methods and AI techniques in several disciplines (Computer Vision, Analysis, Forecasting, NLP...)
+💻 I am a AI Scientist, PhD Candidate at Faurecia in partnership with FEMTO Institute in France.
 
 📩  If you'd like to ask any questions about my process, work, or would like to collaborate on a project, feel free to reach out.
 
