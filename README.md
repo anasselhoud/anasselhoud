@@ -2,7 +2,7 @@
 
 Work now: Artificial Intelligence Engineer & PhD Candidate.
 
-💻 I am a AI Scientist, PhD Candidate at Faurecia in partnership with FEMTO Institute in France.
+💻 I am a AI Scientist, PhD Candidate at Faurecia in partnership with FEMTO-ST Institute in France.
 
 📩  If you'd like to ask any questions about my process, work, or would like to collaborate on a project, feel free to reach out.
 
