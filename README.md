@@ -3,10 +3,10 @@
 Work now: AI Engineer, Data Scientist. 
 ![](https://komarev.com/ghpvc/?username=anasselhoud)
 
-
-💻 I am a AI Scientist, PhD Candidate at Faurecia in partnership with FEMTO-ST Institute in France.
+💻 I am a AI Engineer & Data Scientist, PhD Candidate at Faurecia in partnership with FEMTO-ST Institute in France.
 
 <img src="https://img.shields.io/badge/-Python-F3F7FA?logo=Python&logoColor=339933&style=for-the-badge&logoWidth=30" alt="Python">
+<img src="https://img.shields.io/badge/-Linux-F3F7FA?logo=Python&logoColor=339933&style=for-the-badge&logoWidth=30" alt="Linux">
 
 📩  If you'd like to ask any questions about my process, work, or would like to collaborate on a project, feel free to reach out.
 
