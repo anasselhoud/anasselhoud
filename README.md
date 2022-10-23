@@ -7,7 +7,7 @@ Work now: AI Engineer, Data Scientist.
 Some tools, frameworks & OS I use:
 
 <img src="https://img.shields.io/badge/-Python-F3F7FA?logo=Python&style=for-the-badge&logoWidth=50" alt="Python"> <img src="https://img.shields.io/badge/-Linux-F3F7FA?logo=Linux&style=for-the-badge&logoWidth=40" alt="Linux">
-<img src="https://img.shields.io/badge/-Docker-F3F7FA?logo=Docker&style=for-the-badge&logoWidth=40" alt="Docker"> <img src="https://img.shields.io/badge/-Azure-F3F7FA?logo=Azure&style=for-the-badge&logoWidth=40" alt="Azure DevOps">
+<img src="https://img.shields.io/badge/-Docker-F3F7FA?logo=Docker&style=for-the-badge&logoWidth=40" alt="Docker"> <img src="https://img.shields.io/badge/-Azure-F3F7FA?logo=Azuredevops&style=for-the-badge&logoWidth=40" alt="Azure DevOps">
 
 📩  If you'd like to ask any questions about my process, work, or would like to collaborate on a project, feel free to reach out here:
 
