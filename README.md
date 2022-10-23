@@ -16,8 +16,6 @@ As for OS, I worked with:
 
 📩  If you'd like to ask any questions about my process, work, or would like to collaborate on a project, feel free to reach out here:
 
-<img src="https://img.shields.io/badge/-Python-F3F7FA?logo=Python&logoColor=339933&style=for-the-badge&logoWidth=30" alt="Python"> <img src="https://img.shields.io/badge/-Linux-F3F7FA?logo=Linux&logoColor=339933&style=for-the-badge&logoWidth=30" alt="Linux">
-<img src="https://img.shields.io/badge/-Docker-F3F7FA?logo=Docker&logoColor=339933&style=for-the-badge&logoWidth=30" alt="Docker">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasselhoud&hide=issues&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
