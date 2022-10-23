@@ -8,8 +8,7 @@ Work now: AI Engineer, Data Scientist.
 ## 💻 Skills
 Some tools, frameworks & OS I use:
 
-<img src="https://img.shields.io/badge/-Python-F3F7FA?logo=Python&style=for-the-badge&logoWidth=50" alt="Python"> 
-<img src="https://img.shields.io/badge/-Docker-F3F7FA?logo=Docker&style=for-the-badge&logoWidth=40" alt="Docker"> <img src="https://img.shields.io/badge/-Git-F3F7FA?logo=Git&style=for-the-badge&logoWidth=40" alt="Git"> <img src="https://img.shields.io/badge/-TensorFlow-F3F7FA?logo=tensorflow&style=for-the-badge&logoWidth=40" alt="TensorFlow"> <img src="https://img.shields.io/badge/-RaspberryPi-F3F7FA?logo=RaspberryPi&logoColor=C03E41&style=for-the-badge&logoWidth=40" alt="Raspberry Pi">
+<img src="https://img.shields.io/badge/-Python-F3F7FA?logo=Python&style=for-the-badge&logoWidth=50" alt="Python">  <img src="https://img.shields.io/badge/-Docker-F3F7FA?logo=Docker&style=for-the-badge&logoWidth=40" alt="Docker"> <img src="https://img.shields.io/badge/-Git-F3F7FA?logo=Git&style=for-the-badge&logoWidth=40" alt="Git"> <img src="https://img.shields.io/badge/-TensorFlow-F3F7FA?logo=tensorflow&style=for-the-badge&logoWidth=40" alt="TensorFlow"> <img src="https://img.shields.io/badge/-RaspberryPi-F3F7FA?logo=RaspberryPi&logoColor=C03E41&style=for-the-badge&logoWidth=40" alt="Raspberry Pi">
 
 As for OS, I worked with:
 <img src="https://img.shields.io/badge/-Linux Ubuntu-F3F7FA?logo=ubuntu&style=for-the-badge&logoWidth=40" alt="Linux Ubuntu"> <img src="https://img.shields.io/badge/-RaspberryPi-F3F7FA?logo=RaspberryPi&logoColor=C03E41&style=for-the-badge&logoWidth=40" alt="Raspberry Pi"> 
