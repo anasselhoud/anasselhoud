@@ -1,6 +1,8 @@
 ### Welcome 👋
 
 Work now: AI Engineer, Data Scientist. 
+![](https://komarev.com/ghpvc/?username=anasselhoud)
+
 
 💻 I am a AI Scientist, PhD Candidate at Faurecia in partnership with FEMTO-ST Institute in France.
 
