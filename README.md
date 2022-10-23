@@ -6,6 +6,8 @@ Work now: AI Engineer, Data Scientist.
 
 💻 I am a AI Scientist, PhD Candidate at Faurecia in partnership with FEMTO-ST Institute in France.
 
+<img src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NodeJS">
+
 📩  If you'd like to ask any questions about my process, work, or would like to collaborate on a project, feel free to reach out.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasselhoud&hide=issues&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
