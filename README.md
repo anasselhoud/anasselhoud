@@ -7,7 +7,7 @@ Work now: AI Engineer, Data Scientist.
 Some tools, frameworks & OS I use:
 
 <img src="https://img.shields.io/badge/-Python-F3F7FA?logo=Python&style=for-the-badge&logoWidth=50" alt="Python"> <img src="https://img.shields.io/badge/-Linux-F3F7FA?logo=Linux&style=for-the-badge&logoWidth=40" alt="Linux">
-<img src="https://img.shields.io/badge/-Docker-F3F7FA?logo=Docker&style=for-the-badge&logoWidth=40" alt="Docker"> <img src="https://img.shields.io/badge/-TensorFlow-F3F7FA?logo=tensorflow&style=for-the-badge&logoWidth=40" alt="TensorFlow">
+<img src="https://img.shields.io/badge/-Docker-F3F7FA?logo=Docker&style=for-the-badge&logoWidth=40" alt="Docker"> <img src="https://img.shields.io/badge/-Git-F3F7FA?logo=Git&style=for-the-badge&logoWidth=40" alt="Git"> <img src="https://img.shields.io/badge/-TensorFlow-F3F7FA?logo=tensorflow&style=for-the-badge&logoWidth=40" alt="TensorFlow">
 
 📩  If you'd like to ask any questions about my process, work, or would like to collaborate on a project, feel free to reach out here:
 
