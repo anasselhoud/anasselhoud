@@ -1,8 +1,6 @@
 # Welcome 👋
 
-Work now: AI Engineer, Data Scientist. 
-
-💻 I am a **AI Engineer & Data Scientist**, **PhD Candidate** at Faurecia in partnership with FEMTO-ST Institute in France.
+I am a **AI Engineer & Data Scientist**, **PhD Candidate** at Faurecia in partnership with FEMTO-ST Institute in France.
 
 
 ## 💻 Skills
