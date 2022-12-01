@@ -12,7 +12,7 @@ As for OS, I worked with:
 
 <img src="https://img.shields.io/badge/-Linux Ubuntu-F3F7FA?logo=ubuntu&style=for-the-badge&logoWidth=40" alt="Linux Ubuntu"> <img src="https://img.shields.io/badge/-Raspian OS-F3F7FA?logo=RaspberryPi&logoColor=C03E41&style=for-the-badge&logoWidth=40" alt="Raspian OS">  <img src="https://img.shields.io/badge/-Windows-F3F7FA?logo=Windows&logoColor=000080&style=for-the-badge&logoWidth=40" alt="Windows"> 
 
-📩  If you'd like to ask any questions about my process, work, or would like to collaborate on a project, feel free to reach out.
+📩  If you'd like to ask any questions about my work, or would like to collaborate on a project, feel free to reach out.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasselhoud&hide=issues&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
