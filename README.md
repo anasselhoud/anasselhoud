@@ -15,9 +15,6 @@ As for OS, I worked with:
 📩  If you'd like to ask any questions about my work, or would like to collaborate on a project, feel free to reach out.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasselhoud&hide=issues&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!--
 **anasselhoud/anasselhoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
