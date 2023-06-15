@@ -10,7 +10,7 @@ Some tools, frameworks & PL I use:
 
 As for OS, I worked with:
 
-<img src="https://img.shields.io/badge/-Linux Ubuntu-F3F7FA?logo=ubuntu&style=for-the-badge&logoWidth=40" alt="Linux Ubuntu"> <img src="https://img.shields.io/badge/-Raspian OS-F3F7FA?logo=RaspberryPi&logoColor=C03E41&style=for-the-badge&logoWidth=40" alt="Raspian OS">  <img src="https://img.shields.io/badge/-Windows-F3F7FA?logo=Windows&logoColor=000080&style=for-the-badge&logoWidth=40" alt="Windows"> 
+<img src="https://img.shields.io/badge/-Linux Ubuntu-F3F7FA?logo=ubuntu&style=for-the-badge&logoWidth=40" alt="Linux Ubuntu"> <img src="https://img.shields.io/badge/-Linux Ubuntu-F3F7FA?logo=kali&style=for-the-badge&logoWidth=40" alt="Linux Kali"><img src="https://img.shields.io/badge/-Raspian OS-F3F7FA?logo=RaspberryPi&logoColor=C03E41&style=for-the-badge&logoWidth=40" alt="Raspian OS">  <img src="https://img.shields.io/badge/-Windows-F3F7FA?logo=Windows&logoColor=000080&style=for-the-badge&logoWidth=40" alt="Windows"> 
 
 📩  If you'd like to ask any questions about my work, or would like to collaborate on a project, feel free to reach out.
 
