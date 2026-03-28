@@ -1,6 +1,4 @@
-# Welcome 👋
-
-Doctor in Comptuer Science. Double Eng. from Centrale Lyon & Arts et Métiers.
+Doctor in Comptuer Science. Dual Eng. from Centrale Lyon & Arts et Métiers.
 Working on AI, Data & Digital Transformation.
 
 📩  If you'd like to ask any questions about my work, or would like to collaborate on a project, feel free to reach out.
