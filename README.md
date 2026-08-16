@@ -17,16 +17,6 @@ Outside the day job, I'm a **tech builder at heart** — self-hosted home lab, I
 
 <br/>
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-aelhoud.com-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://aelhoud.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anass-elhoud)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anass@aelhoud.com)
-[![Resume](https://img.shields.io/badge/Resume-View-2ea44f?style=for-the-badge&logo=readthedocs&logoColor=white)](https://aelhoud.com/resume/)
-
-</div>
-
-<br/>
 
 ## 📊 GitHub Stats
 
