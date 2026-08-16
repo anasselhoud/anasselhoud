@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2800&pause=1200&color=6C63FF&center=true&vCenter=true&width=650&lines=Dr.+Anass+ELHOUD;Digital+%26+AI+Strategy+Manager+%40+FORVIA;PhD+in+AI+%7C+Industrial+AI+%26+Data;Home+Lab+Tinkerer+%7C+Astrophotographer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2800&pause=1200&color=6C63FF&center=true&vCenter=true&width=650&lines=Dr.+Anass+ELHOUD;Digital+%26+AI+Strategy+Manager+%40+FORVIA;PhD+in+AI+%7C+Industrial+AI+%26+Data;Tech+Builder+%7C+Astrophotographer" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=150&section=header&text=&fontSize=0" width="100%"/>
 
@@ -40,7 +40,5 @@ Outside the day job, I'm a **tech builder at heart** — self-hosted home lab, I
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
-
-<sub>© 2026 Anass ELHOUD · Digital & AI Strategy Manager at FORVIA Group</sub>
 
 </div>
