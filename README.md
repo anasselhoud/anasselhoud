@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2800&pause=1200&color=6C63FF&center=true&vCenter=true&width=650&lines=Dr.+Anass+ELHOUD;Digital+%26+AI+Strategy+Manager+%40+FORVIA;PhD+in+AI+%7C+Industrial+AI+%26+Data;Tech+Builder+%7C+Astrophotographer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2800&pause=1200&color=6C63FF&center=true&vCenter=true&width=650&lines=Dr.+Anass+ELHOUD;Digital+%26+AI+Strategy+Manager;PhD+in+AI+%7C+Industrial+AI+%26+Data;Tech+Builder+%7C+Astrophotographer" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=150&section=header&text=&fontSize=0" width="100%"/>
 
