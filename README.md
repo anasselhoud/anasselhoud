@@ -25,10 +25,3 @@ Outside the day job, I'm a **tech builder at heart** — self-hosted home lab, I
 <img src="https://streak-stats.demolab.com/?user=anasselhoud&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF"/>
 
 </div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
-
-</div>
