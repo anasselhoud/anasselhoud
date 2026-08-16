@@ -14,7 +14,6 @@ Hi there! I'm a **Digital & AI Strategy Manager**, leading digital transformatio
 📊 Formal & hands-on experience in Business Management and Digital Transformation Strategy
 
 Outside the day job, I'm a **tech builder at heart** — self-hosted home lab, IoT tinkering, and shipping personal tech projects for fun. More on that at [aelhoud.com](https://aelhoud.com).
-
 <br/>
 
 ## 📊 GitHub Stats
