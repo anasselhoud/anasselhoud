@@ -6,9 +6,7 @@
 
 </div>
 
-### 👋 About
-
-I'm a **Digital & AI Strategy Manager at FORVIA**, leading digital transformation projects — Data, AI & GenAI roadmap — for the Group Procurement function.
+Hi there! I'm a **Digital & AI Strategy Manager**, leading digital transformation projects — Data, AI & GenAI roadmap — with a double hat: technical and business. 
 
 🎓 PhD in AI & Computer Science
 🎓 Dual engineering degree — Centrale Lyon & Arts et Métiers
