@@ -34,10 +34,10 @@ Outside the day job, I'm a **tech builder at heart** — self-hosted home lab, I
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anasselhoud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasselhoud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anasselhoud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anasselhoud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anasselhoud&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF"/>
+<img src="https://streak-stats.demolab.com/?user=anasselhoud&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF"/>
 
 </div>
 
