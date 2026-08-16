@@ -17,7 +17,6 @@ Outside the day job, I'm a **tech builder at heart** — self-hosted home lab, I
 
 <br/>
 
-
 ## 📊 GitHub Stats
 
 <div align="center">
